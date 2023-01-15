@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://lucascervera.github.io/publii-lc-website-template/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://lucascervera.github.io/publii-lc-website-template/</loc>
+</url>
+<url>
+<loc>https://lucascervera.github.io/publii-lc-website-template/lc-block-page/</loc>
+<lastmod>2023-01-15T08:50:37+01:00</lastmod>
+</url>
+<url>
+<loc>https://lucascervera.github.io/publii-lc-website-template/lc-markdown-page-title/</loc>
+<lastmod>2023-01-15T08:46:24+01:00</lastmod>
+<image:image>
+<image:loc>https://lucascervera.github.io/publii-lc-website-template/media\posts\1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lucascervera.github.io/publii-lc-website-template/lc-wysiwyg-page/</loc>
+<lastmod>2023-01-15T08:45:01+01:00</lastmod>
+<image:image>
+<image:loc>https://lucascervera.github.io/publii-lc-website-template/media\posts\2/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
